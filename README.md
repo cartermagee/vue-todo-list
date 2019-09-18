@@ -1,5 +1,6 @@
 # vue-todo-list
-
+my first vue project ( I love vue ) 
+data persisted in localstorage for now
 ## Project setup
 ```
 npm install
